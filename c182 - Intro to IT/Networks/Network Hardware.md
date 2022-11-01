@@ -1,3 +1,4 @@
+<h2> Networks</h2>
 **What is a network?**
 A network is a collection of two or more connected devices that communicate with one another
 
@@ -52,8 +53,29 @@ Network bandwidth is typically measured in megabits per second (Mbps) and gigabi
 A coaxial cable is a shielded and insulated copper cable used in computer networks and to deliver cable TV
 
 **How does it compare to twisted cables?**
-A coaxial cable has about 80 times the bandwith of twisted wires, so typically modems and televisions use coaxial cables. It is used for both *broadband* and *baseband* communication.
+A coaxial cable has about 80 times the bandwith of twisted wires, so typically modems and televisions use coaxial cables. 
+
+**What are the two broadcast methods a coaxial cable can use?**
+Coaxial cables use both *broadband* and *baseband* communication.
 
 **What is the difference between broadband and baseband?**
 1. Baseband
-	1. 
+	1. A signal at a very narrow frequency range which data or information is [superimposed](https://en.wikipedia.org/wiki/Superimposition) and then transmitted
+		1. Ethernet LANs
+		2. Serial cables 
+2. Broadband
+	1. High capacity transmission technologies to transmit data, voice, video across long distances and at high speeds
+		1. Coaxial cable
+		2. Fiber optic cable
+		3. Radio waves
+
+<h2>Fiber-Optic Cable</h2>
+**How do fiber-optic cables work?**
+Light travels down a fiber-optic cable by [bouncing off the walls of the cable repeatedly](https://www.nai-group.com/optical-fiber-technology-how-it-works/), and those pulses of light transmit data
+
+**How much data can fiber-optic cables transmit?**
+Fiber-optic cables can transmit large volumes of data: *26,000* times the bandwith of twisted pair wires
+<h2> Wireless Transmissions</h2>
+**What allows data to be transferred wirelessly?**
+Electromagentic waves of different frequencies, like infared or radio waves, can be used to transmit data within a network using Wi-Fi or Bluetooth
+
