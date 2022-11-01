@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c182 - Intro to IT/Networks/Network Hardware.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c182 - Intro to IT/Networks/Network Hardware.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c182 - Intro to IT/Networks/Network Hardware.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c182 - Intro to IT/Networks/Network Hardware.md"
+                "file": "README.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "a145698004c7a7d8",
   "lastOpenFiles": [
-    "c182 - Intro to IT/Networks/Combining Networks.md",
     "c182 - Intro to IT/Networks/Network Hardware.md",
+    "c182 - Intro to IT/Networks/Combining Networks.md",
     "README.md",
     "c182 - Intro to IT/Combining Networks/Untitled.md",
     "Untitled.md",
