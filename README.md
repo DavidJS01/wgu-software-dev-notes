@@ -1,4 +1,4 @@
-![[gophers_studying.png]]
+![golang_gophers](assets/gophers_studying.png)
 <H2> What is this? </H2>
 This repository serves as a personal note vault for any content that I personally need to review while I complete my Bachelor's in Software Development. 
 
