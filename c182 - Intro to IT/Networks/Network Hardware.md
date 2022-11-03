@@ -1,8 +1,10 @@
-<h2> Networks</h2>
+## Networks
 **What is a network?**
 A network is a collection of two or more connected devices that communicate with one another
 
-<h2> Transmission Media </h2>
+^bafd6f
+
+## Transmission Media
 **What is a transmission medium?**
 A transmission medium is a network component that carries data from one network device to another.
 
@@ -33,7 +35,8 @@ There are two types of [twisted pair cables](https://en.wikipedia.org/wiki/Twist
 		1. More expensive than UTP for that reason
 		2. Protects wires from nieghboring unshielded cables and electromagentic interference
 
-<h2> Network Bandwith </h2>
+## Network Bandwith
+
 Network bandwidth is typically measured in megabits per second (Mbps) and gigabits (Gbps) per second.
 
 | Category | Maxiumum Bandwith |
@@ -48,7 +51,7 @@ Network bandwidth is typically measured in megabits per second (Mbps) and gigabi
 | CAT6a | 10 Gbps |
 | CAT7 | 10 Gbps |
 
-<H2> Coaxial Cables </H2>
+## Coaxial Cables
 **What is a coaxial cable?**
 A coaxial cable is a shielded and insulated copper cable used in computer networks and to deliver cable TV
 
@@ -69,13 +72,14 @@ Coaxial cables use both *broadband* and *baseband* communication.
 		2. Fiber optic cable
 		3. Radio waves
 
-<h2>Fiber-Optic Cable</h2>
+## Fiber-Optic Cable
 **How do fiber-optic cables work?**
 Light travels down a fiber-optic cable by [bouncing off the walls of the cable repeatedly](https://www.nai-group.com/optical-fiber-technology-how-it-works/), and those pulses of light transmit data
 
 **How much data can fiber-optic cables transmit?**
 Fiber-optic cables can transmit large volumes of data: *26,000* times the bandwith of twisted pair wires
-<h2> Wireless Transmissions</h2>
+
+## Wireless Transmissions
 **What allows data to be transferred wirelessly?**
 Electromagentic waves of different frequencies, like infared or radio waves, can be used to transmit data within a network using Wi-Fi or Bluetooth
 

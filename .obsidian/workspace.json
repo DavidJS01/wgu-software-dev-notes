@@ -4,47 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "6370749df5d4dd37",
+        "id": "6312c96df0bfaf2b",
         "type": "tabs",
         "children": [
           {
-            "id": "abe90a5436f76c8f",
+            "id": "1c62c4fbd1ca2be3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "74010f167e84ab8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c182 - Intro to IT/Networks/Network Hardware.md",
+                "file": "c182 - Intro to IT/Project Management/Introduction to Project Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ee5e828c3eabcd29",
+            "id": "c4a52b9f62f44199",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec62f6ea4bbd470c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb905bcc375d7155",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c182 - Intro to IT/Networks/Network Hardware.md",
+                "file": "c182 - Intro to IT/Networks/Protection and Risk Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a145698004c7a7d8",
+            "id": "dfd8604a8b2c1037",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "c182 - Intro to IT/Networks/Network Security and Business Implications.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "92e03d8b093727e8",
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "c182 - Intro to IT/Networks/Protection and Risk Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "c182 - Intro to IT/Networks/Protection and Risk Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "c182 - Intro to IT/Networks/Protection and Risk Management.md"
               }
             }
           }
@@ -158,17 +182,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
-  "active": "a145698004c7a7d8",
+  "active": "eb905bcc375d7155",
   "lastOpenFiles": [
+    "c182 - Intro to IT/Project Management/Mitigating Project Risks.md",
+    "c182 - Intro to IT/Project Management/Introduction to Project Management.md",
+    "c182 - Intro to IT/Operating Systems and Applications/File Management.md",
+    "c182 - Intro to IT/Operating Systems and Applications/Users and Interface.md",
     "c182 - Intro to IT/Networks/Network Hardware.md",
+    "c182 - Intro to IT/Networks/Computer Networks.md",
     "c182 - Intro to IT/Networks/Combining Networks.md",
-    "README.md",
-    "c182 - Intro to IT/Combining Networks/Untitled.md",
-    "Untitled.md",
-    "assets/gophers_studying.png",
-    "Pasted image 20221101135315.png"
+    "c182 - Intro to IT/Operating Systems and Applications/Operating Systems.md",
+    "c182 - Intro to IT/Networks/The World Wide Web.md",
+    "c182 - Intro to IT/Networks/Protection and Risk Management.md"
   ]
 }

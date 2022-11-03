@@ -1,4 +1,4 @@
-<h2> What devices can be used to connect networks? </h2>
+## What devices can be used to connect networks? 
 **Repeaters:**
 Repeaters ***extend the range*** of cabling types so connections can be made by increasing the strength of the network signal
 
@@ -11,6 +11,6 @@ For example, a bridge can connect a twisted pair and coaxial network and only br
 Switches are used on LANs to **reduce network traffic** by managment of network messages
 
 **Routers:**
-A router connected to your LAN (also called a Gateway) acts as a gateway to the internet.
+A router connected to your LAN (also called a Gateway) acts as a gateway to the internet. ^73150d
 
-It manages network traffic by having a routing table of known devices: if the destination address is unnown, it forwards the message to another router until the message reaches the correct address.
+It manages network traffic by having a routing table of known devices: if the destination address is unknown, it forwards the message to another router until the message reaches the correct address.
